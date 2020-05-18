@@ -1,0 +1,36 @@
+{
+    "products":
+    [
+        {
+            "name": "Colgadera Mediana",
+            "specifications" : {
+                "unit": "kilo",
+                "price": "45.50",
+                "category": "Bolsa",
+                "bio": "no"
+            }
+            
+
+        },   
+        {
+            "name": "Colgadera chica",
+            "specifications" : {
+                "unit": "kilo",
+                "price": "45.50",
+                "category": "Bolsa",
+                "bio": "no"
+            }
+        },
+        {
+            "name": "Colgadera grande",
+            "specifications" : {
+                "unit": "kilo",
+                "price": "45.50",
+                "category": "Bolsa",
+                "bio": "no"
+            }
+            
+
+        }
+    ]
+}
